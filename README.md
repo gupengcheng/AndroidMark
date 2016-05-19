@@ -26,6 +26,7 @@
 - [使用Gradle管理你的Android Studio工程](http://www.flysnow.org/2015/03/30/manage-your-android-project-with-gradle.html)
 - [gradle介绍](https://github.com/rujews/android-tech-docs/blob/master/new-build-system/user-guide/README.md)
 - [git学习-廖雪峰的官方网站](http://www.liaoxuefeng.com/)
+- [如何提高你的代码质量-四种工具的介绍](http://www.devtf.cn/?p=790)
 
 ## 急需阅读的书籍
 - Android开发艺术探索
