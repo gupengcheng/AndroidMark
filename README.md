@@ -27,6 +27,7 @@
 - [gradle介绍](https://github.com/rujews/android-tech-docs/blob/master/new-build-system/user-guide/README.md)
 - [git学习-廖雪峰的官方网站](http://www.liaoxuefeng.com/)
 - [如何提高你的代码质量-四种工具的介绍](http://www.devtf.cn/?p=790)
+- [代码规范和Android项目中的一些可用工具](http://tech.glowing.com/cn/dai-ma-gui-fan-he-androidxiang-mu-zhong-de-xie-ke-yong-gong-ju/)
 
 ## 急需阅读的书籍
 - Android开发艺术探索
