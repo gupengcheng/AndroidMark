@@ -34,6 +34,9 @@
 - [代码规范和Android项目中的一些可用工具](http://tech.glowing.com/cn/dai-ma-gui-fan-he-androidxiang-mu-zhong-de-xie-ke-yong-gong-ju/)
 - [这些小工具让你的Android 开发更高效（上）](http://www.jianshu.com/p/a63700cb7720)
 - [这些小工具让你的Android 开发更高效（下）](http://www.jianshu.com/p/03136bdb1e50)
+- [使用 CheckStyle 检查代码](http://gudong.name/2016/04/07/checkstyle.html)
+- [Mac下修改Android Studio 所用的JDK版本](http://www.jianshu.com/p/d8d1d72d0248)
+- [带你使用SwipeBackLayout和SwipeBackActivity](http://www.jianshu.com/p/92b884d8471c)
 
 ## 人生规划博客
 - [普通人如何找到自己的一技之长，并靠它赚到钱](http://www.jianshu.com/p/a233e5d10c80)
