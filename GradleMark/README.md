@@ -355,5 +355,5 @@ sourceSets {
 
 选择" Build Variant",然后在出现的窗口中选择其中一个选项作为默认的编译，运行选项即可。
 
-![](https://github.com/gupengcheng/AndroidMark/screen.jpg)
+![](https://github.com/gupengcheng/AndroidMark/blob/master/screen.jpg)
 
