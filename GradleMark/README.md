@@ -223,20 +223,20 @@ android {
             }
         }
     }
- }
+    }
 
-//依赖第三方库
-dependencies {
-   //编译libs目录下所以jar包
-   //compile files('libs/xxx.jar')   导入一个特定jar包
+    //依赖第三方库
+    dependencies {
+    //编译libs目录下所以jar包
+    //compile files('libs/xxx.jar')   导入一个特定jar包
     compile fileTree(dir: 'libs', include: ['*.jar'])//导入所有的jar包
     compile project(':core')
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
     compile 'com.android.support:recyclerview-v7:23.1.1'
     compile 'com.android.support:cardview-v7:23.1.1'
-}
-
+    }
+    }
 - buildToolsVersion这个需要你本地安装该版本才行，很多人导入新的第三方库，失败的原因之一是build version的版本不对，这个可以手动更改成你本地已有的版本或者打开 SDK Manager 去下载对应版本。
 - proguardFiles这部分有两段，前一部分代表系统默认的android程序的混淆文件，该文件已经包含了基本的混淆声明，免去了我们很多事，这个文件的目录在 /tools/proguard/proguard-android.txt , 后一部分是我们项目里的自定义的混淆文件，目录就在 app/proguard-rules.pro ,在这个文件里你可以声明一些第三方依赖的一些混淆规则，最终混淆的结果是这两部分文件共同作用的。
 - 一般重要的信息，例如签名信息，可以直接将信息写到gradle.properties，然后在然后在build.gradle中引用即可。
@@ -273,7 +273,7 @@ KEY_PASSWORD = your password
 
 在build.gradle中配置buildConfigField参数，编译后会在..\app\build\generated\source\buildConfig文件夹下会自动生成对应版本对应module的BuildConfig.java。BuildConfig就会包含对应版本的配置信息。程序中可以直接引用这些数据。例如BuildConfig.DEBUG。
 
-public final class BuildConfig {
+    public final class BuildConfig {
     public static final boolean DEBUG = Boolean.parseBoolean("true");
     public static final String BUILD_TYPE = "debug";
     public static final String FLAVOR = "360";
@@ -284,22 +284,22 @@ public final class BuildConfig {
     public static final String HOST_SERVER = "test";
     // Fields from product flavor: 360
     public static final String CHANNEL_NUMBER = "232100";
-}
+    }
 
 ### module 调整目录结构sourceSets
 
 默认情况下，java文件和resource文件分别在src/main/java和src/main/res目录下，在build.gradle文件，andorid{}里面添加下面的代码，便可以将java文件和resource文件放到src/java和src/resources目录下。
 
-sourceSets {
-   main {
-      java {
+	sourceSets {
+   	main {
+      	java {
           srcDir 'src/java'
-      }
-      resources {
+      	}
+      	resources {
         srcDir 'src/resources'
-     }
-   }
-}
+     	}
+   	}
+	}
 
 更简便的写法是：
 
