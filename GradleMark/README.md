@@ -1,10 +1,11 @@
 # Gradle mark
 
 ## Gradle基础
-参考文档
+### 参考文档
 - [极客学院gradle](http://wiki.jikexueyuan.com/project/android-studio-guide/gradle-channel-package.html)
 - [Gradle for Android 问题总结](http://www.jianshu.com/p/9dcec4a14c52)
 - [Android Studio中的productFlavors指定默认编译执行的任务](https://www.mobibrw.com/2016/3782)
+
 ### gradle采用驼峰命名的方式组合不同的命令
 ### Android studio中使用gradle的一些命令如./gradlew -v ，./gradlew clean，./gradlew build，这里注意是./gradlew, ./代表当前目录，gradlew代表 gradle wrapper，意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper， 在App主目录/gradle/wrapper/gralde-wrapper.properties文件中声明了它指向的目录和版本。只要下载成功即可用grdlew wrapper的命令代替全局的gradle命令
 1. ./gradlew -v 查看当前gradle版本
@@ -221,9 +222,7 @@ android {
             }
         }
     }
-
-
-}
+ }
 
 //依赖第三方库
 dependencies {
@@ -329,7 +328,7 @@ sourceSets {
 ## Gradle进阶
 
 ### Android Studio中的productFlavors指定默认编译执行的任务
-productFlavors {
+	productFlavors {
         adefault {
             applicationId "com.gpc.gradlesetting"
             manifestPlaceholders.put("TEXT_CHANNEL_VALUE", 'dev')
@@ -350,12 +349,10 @@ productFlavors {
             manifestPlaceholders.put("TEXT_CHANNEL_VALUE", 'tecent')
             buildConfigField("String", "TEST_SERVER_URL", "\"http://tecent.com\"")
         }
-    }
+    	}
 我们点击 Android Studio的调试按钮的时候，不知道究竟是使用哪个 Flavors来编译，比如在 Android Studio 1.5的时候,是按照从上到下的顺序处理的，默认是使用排在第一个的 adefault,而到了 Android Studio 2.1 Preview 5版本，结果变成了默认编译 baidu。
-
-网上搜索了一下，找到如下解决方法：
 
 选择" Build Variant",然后在出现的窗口中选择其中一个选项作为默认的编译，运行选项即可。
 
-![](https://github.com/gupengcheng/AndroidMark/GradleMark/screen.jpg)
+![](https://github.com/gupengcheng/AndroidMark/tree/master/GradleMark/screen.jpg)
 
