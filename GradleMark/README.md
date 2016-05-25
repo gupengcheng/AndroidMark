@@ -6,8 +6,9 @@
 - [Gradle for Android 问题总结](http://www.jianshu.com/p/9dcec4a14c52)
 - [Android Studio中的productFlavors指定默认编译执行的任务](https://www.mobibrw.com/2016/3782)
 
-### gradle采用驼峰命名的方式组合不同的命令
-### Android studio中使用gradle的一些命令如./gradlew -v ，./gradlew clean，./gradlew build，这里注意是./gradlew, ./代表当前目录，gradlew代表 gradle wrapper，意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper， 在App主目录/gradle/wrapper/gralde-wrapper.properties文件中声明了它指向的目录和版本。只要下载成功即可用grdlew wrapper的命令代替全局的gradle命令
+### 常见命令
+- gradle采用驼峰命名的方式组合不同的命令
+- Android studio中使用gradle的一些命令如./gradlew -v ，./gradlew clean，./gradlew build，这里注意是./gradlew, ./代表当前目录，gradlew代表 gradle wrapper，意思是gradle的一层包装，大家可以理解为在这个项目本地就封装了gradle，即gradle wrapper， 在App主目录/gradle/wrapper/gralde-wrapper.properties文件中声明了它指向的目录和版本。只要下载成功即可用grdlew wrapper的命令代替全局的gradle命令
 1. ./gradlew -v 查看当前gradle版本
 2. ./gradlew clean 清除app/build文件夹中的内容
 3. ./gradlew build 检查依赖并编译打包，会把debug、release环境的包都打出来
