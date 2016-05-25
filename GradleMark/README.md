@@ -4,6 +4,7 @@
 ### 参考文档
 - [极客学院gradle](http://wiki.jikexueyuan.com/project/android-studio-guide/gradle-channel-package.html)
 - [Gradle for Android 问题总结](http://www.jianshu.com/p/9dcec4a14c52)
+- [Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
 - [Android Studio中的productFlavors指定默认编译执行的任务](https://www.mobibrw.com/2016/3782)
 
 ### 常见命令
@@ -356,4 +357,7 @@ sourceSets {
 选择" Build Variant",然后在出现的窗口中选择其中一个选项作为默认的编译，运行选项即可。
 
 ![](https://github.com/gupengcheng/AndroidMark/blob/master/screen.jpg)
+
+## Gradle 发布项目
+- [使用Gradle发布项目到JCenter仓库 ](http://rocko.xyz/2015/02/02/%E4%BD%BF%E7%94%A8Gradle%E5%8F%91%E5%B8%83%E9%A1%B9%E7%9B%AE%E5%88%B0JCenter%E4%BB%93%E5%BA%93/)
 

@@ -37,6 +37,13 @@
 - [使用 CheckStyle 检查代码](http://gudong.name/2016/04/07/checkstyle.html)
 - [Mac下修改Android Studio 所用的JDK版本](http://www.jianshu.com/p/d8d1d72d0248)
 - [带你使用SwipeBackLayout和SwipeBackActivity](http://www.jianshu.com/p/92b884d8471c)
+- [任玉刚Android apk动态加载机制的研究](http://blog.csdn.net/singwhatiwanna/article/details/22597587)
+- [Android动态加载库android-dynamical-loading](https://github.com/kaedea/android-dynamical-loading)
+- [apk动态加载框架dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+- [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16)
+- [怎么将 Android 程序做成插件化的形式](https://www.zhihu.com/question/19981105)
+- [Android动态加载技术三个关键问题详解](http://www.infoq.com/cn/articles/android-dynamic-loading)
+- [Android 动态加载技术系列索引](http://gold.xitu.io/entry/566109fd00b01b7852c1cc9d)
 
 ## 人生规划博客
 - [普通人如何找到自己的一技之长，并靠它赚到钱](http://www.jianshu.com/p/a233e5d10c80)
