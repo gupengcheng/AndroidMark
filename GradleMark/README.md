@@ -6,6 +6,8 @@
 - [Gradle for Android 问题总结](http://www.jianshu.com/p/9dcec4a14c52)
 - [Gradle多渠道打包](http://stormzhang.com/devtools/2015/01/15/android-studio-tutorial6/)
 - [Android Studio中的productFlavors指定默认编译执行的任务](https://www.mobibrw.com/2016/3782)
+- [Groovy基础](http://www.flysnow.org/2016/05/22/groovy-basis.html)
+- [Lint配置](https://testerhome.com/topics/3105)
 
 ### 常见命令
 - gradle采用驼峰命名的方式组合不同的命令
