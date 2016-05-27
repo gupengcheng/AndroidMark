@@ -21,6 +21,10 @@
 - [慕课网](http://www.imooc.com/)
 - [优达学城](https://cn.udacity.com/)
 
+## 问答网址
+- [知乎](http://www.zhihu.com/)
+- [分答](http://fd.zaih.com/)
+
 ## 技术博客
 - [别人总结的国内优秀博客](https://github.com/android-cn/android-dev-cn)
 - [别人总结的国外优秀博客](https://github.com/android-cn/android-dev-com)
