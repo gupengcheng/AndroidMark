@@ -45,6 +45,16 @@
 - [Android动态加载技术三个关键问题详解](http://www.infoq.com/cn/articles/android-dynamic-loading)
 - [Android 动态加载技术系列索引](http://gold.xitu.io/entry/566109fd00b01b7852c1cc9d)
 
+## 后端服务
+- [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
+- [LeanCloud 为开发者提供一流的工具、平台和服务，为应用开发加速](https://leancloud.cn/)
+- [Bmob 专注于为移动开发者提供后端全栈服务的平台，让移动开发更简单](http://www.bmob.cn/?utm_source=next.36kr.com)
+- 七牛云存储 非结构化静态文件的高速、稳定、安全云存储平台，快速拥有专属文件服务集群
+- UPYUN 云存储和 CDN 服务商
+- [野狗 BaaS 云服务提供商，让每个终端设备都保持与云端的实时数据同步]()
+- APICloud 重新定义移动应用开发，为 App 开发者提供云端的 API 服务和数据云服务
+- 青云 QingCloud QingCloud，为企业提供按需分配、弹性可伸缩计算及组网能力的云技术平台
+
 ## 人生规划博客
 - [普通人如何找到自己的一技之长，并靠它赚到钱](http://www.jianshu.com/p/a233e5d10c80)
 - [程序员如何优雅的挣零花钱](https://github.com/gupengcheng/howto-make-more-money)
