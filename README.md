@@ -48,6 +48,9 @@
 - [怎么将 Android 程序做成插件化的形式](https://www.zhihu.com/question/19981105)
 - [Android动态加载技术三个关键问题详解](http://www.infoq.com/cn/articles/android-dynamic-loading)
 - [Android 动态加载技术系列索引](http://gold.xitu.io/entry/566109fd00b01b7852c1cc9d)
+- [强烈推荐android studio用的几个插件](http://blog.csdn.net/liang5630/article/details/46366901)
+- [游走Android系列之APK文件的反编译、修改和重新编译打包](http://blog.csdn.net/hr1986sd/article/details/8997392)
+- [Android对apk源码的修改--反编译+源码修改+重新打包+签名附HelloWorld的修改实例](http://blog.csdn.net/lucherr/article/details/39896549)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
