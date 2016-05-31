@@ -65,7 +65,8 @@
 ## 人生规划博客
 - [普通人如何找到自己的一技之长，并靠它赚到钱](http://www.jianshu.com/p/a233e5d10c80)
 - [程序员如何优雅的挣零花钱](https://github.com/gupengcheng/howto-make-more-money)
-- [手机厂商崛起应用商店最新排名：应用宝连续三月领跑](http://it.sohu.com/20160113/n434437345.shtml)
+- [手机厂商崛起应用商店最新排名,应用宝连续三月领跑](http://it.sohu.com/20160113/n434437345.shtml)
+
 ## 急需阅读的书籍
 - Android开发艺术探索
 - 深入理解Android
