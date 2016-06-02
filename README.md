@@ -51,6 +51,8 @@
 - [强烈推荐android studio用的几个插件](http://blog.csdn.net/liang5630/article/details/46366901)
 - [游走Android系列之APK文件的反编译、修改和重新编译打包](http://blog.csdn.net/hr1986sd/article/details/8997392)
 - [Android对apk源码的修改--反编译+源码修改+重新打包+签名附HelloWorld的修改实例](http://blog.csdn.net/lucherr/article/details/39896549)
+- [APP设计规范](http://www.jianshu.com/p/a2a4c18c1900)
+- [How to implement ripple on ListView items](https://github.com/rey5137/material/issues/211)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
@@ -68,6 +70,7 @@
 - [手机厂商崛起应用商店最新排名,应用宝连续三月领跑](http://it.sohu.com/20160113/n434437345.shtml)
 
 ## 急需阅读的书籍
+- [程序员必读书单1.0](http://lucida.me/blog/developer-reading-list/)
 - Android开发艺术探索
 - 深入理解Android
 - Android内核剖析
