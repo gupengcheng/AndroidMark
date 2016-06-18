@@ -53,6 +53,7 @@
 - [Android对apk源码的修改--反编译+源码修改+重新打包+签名附HelloWorld的修改实例](http://blog.csdn.net/lucherr/article/details/39896549)
 - [APP设计规范](http://www.jianshu.com/p/a2a4c18c1900)
 - [How to implement ripple on ListView items](https://github.com/rey5137/material/issues/211)
+- [Android开发拆墙(GFW)技巧之谈](http://waylenw.github.io/Android/android-vpn-useage/)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
