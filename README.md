@@ -17,6 +17,13 @@
 - [推酷网](http://course.tuicool.com/)
 - [InfoQ](http://www.infoq.com/cn/)
 
+## 牛人
+- [王垠博客](http://www.blogbar.cc/blog/26)
+- [王垠官方博客](http://www.yinwang.org/)
+- [知乎王垠](http://www.zhihu.com/topic/19587684/hot)
+- [赞用下半身思考的女人](http://www.zhihu.com/question/28546557/answer/41280504)
+- [王垠的过去和现状](http://www.cnblogs.com/cbscan/articles/3252872.html)
+
 ## 慕课网址
 - [慕课网](http://www.imooc.com/)
 - [优达学城](https://cn.udacity.com/)
@@ -53,6 +60,10 @@
 - [Android对apk源码的修改--反编译+源码修改+重新打包+签名附HelloWorld的修改实例](http://blog.csdn.net/lucherr/article/details/39896549)
 - [APP设计规范](http://www.jianshu.com/p/a2a4c18c1900)
 - [How to implement ripple on ListView items](https://github.com/rey5137/material/issues/211)
+- [android 通话记录和联系人查询](http://blog.csdn.net/u010436741/article/details/9361443)
+- [动画弹出PopupWindow并使背景变暗](http://www.07net01.com/program/2016/03/1398988.html)
+- [用 Android 手機藍芽分享 WiFi 連線](http://www.techbang.com/posts/16269-online-with-the-share-wifi-bluetooth)
+- [android中如何取得用户手机的常用联系人(即收藏夹的联系人)](http://blog.csdn.net/qiaoning13256/article/details/6889315)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
@@ -84,3 +95,4 @@
 
 ## 工具网站
 - [AndroidDevTools](http://www.androiddevtools.cn/)
+- [ProcessOn在线流程图软件](https://www.processon.com/)
