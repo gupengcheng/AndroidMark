@@ -64,6 +64,7 @@
 - [动画弹出PopupWindow并使背景变暗](http://www.07net01.com/program/2016/03/1398988.html)
 - [用 Android 手機藍芽分享 WiFi 連線](http://www.techbang.com/posts/16269-online-with-the-share-wifi-bluetooth)
 - [android中如何取得用户手机的常用联系人(即收藏夹的联系人)](http://blog.csdn.net/qiaoning13256/article/details/6889315)
+- [Android开发拆墙(GFW)技巧之谈](http://waylenw.github.io/Android/android-vpn-useage/)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
