@@ -6,10 +6,16 @@
 - [简书](http://www.jianshu.com/)
 - [稀土掘金](http://gold.xitu.io/#/)
 - [深度开源](http://www.open-open.com/)
+- [胡凯主页](http://hukai.me/)
+- [Trinea](http://www.trinea.cn/)
+- [codeKK和Trinea是同一个人](http://p.codekk.com/)
 - [github最新开源软件](https://android-arsenal.com/)
 - [google官方培训](https://developer.android.com/training/index.html)
 - [google官方Android文档](https://developer.android.com/reference/packages.html)
 - [gradle guide](http://avatarqing.github.io/Gradle-Plugin-User-Guide-Chinese-Verision/introduction/README.html)
+
+## Android 源码
+- [Android source code online](http://androidxref.com/)
 
 ## 行业动态网址
 - [36氪](http://36kr.com/)
@@ -31,6 +37,10 @@
 ## 问答网址
 - [知乎](http://www.zhihu.com/)
 - [分答](http://fd.zaih.com/)
+
+## 设计模式
+- [初学设计模式应该读哪本书](https://www.zhihu.com/question/19679933)
+- [刘伟的博客](http://blog.csdn.net/lovelion)
 
 ## 技术博客
 - [别人总结的国内优秀博客](https://github.com/android-cn/android-dev-cn)
@@ -86,6 +96,7 @@
 - Android开发艺术探索
 - 深入理解Android
 - Android内核剖析
+- [Java并发编程实战](http://download.csdn.net/download/therbetter/5140651)
 - Android系统源代码情景分析
 - effective java第二版
 - Java编程思想第四版
@@ -97,3 +108,6 @@
 ## 工具网站
 - [AndroidDevTools](http://www.androiddevtools.cn/)
 - [ProcessOn在线流程图软件](https://www.processon.com/)
+
+## 简历
+- [技术简历模板](http://b.codekk.com/detail/Trinea/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E6%8A%80%E6%9C%AF%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
