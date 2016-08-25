@@ -111,3 +111,9 @@
 
 ## 简历
 - [技术简历模板](http://b.codekk.com/detail/Trinea/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E6%8A%80%E6%9C%AF%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
+
+## 第三方库的资料
+- [Glide图片加载库](https://muzhi1991.gitbooks.io/android-glide-wiki/content/chapter0.html)
+
+## 发布书籍
+- [GitBook, Git + Markdown 快速发布你的书籍](http://leeluolee.github.io/2014/07/22/2014-07-22-gitbook-guide/)
