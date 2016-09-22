@@ -22,6 +22,7 @@
 - [虎嗅网](http://www.huxiu.com/)
 - [推酷网](http://course.tuicool.com/)
 - [InfoQ](http://www.infoq.com/cn/)
+- [小众软件](http://www.appinn.com/)
 
 ## 牛人
 - [王垠博客](http://www.blogbar.cc/blog/26)
@@ -75,6 +76,17 @@
 - [用 Android 手機藍芽分享 WiFi 連線](http://www.techbang.com/posts/16269-online-with-the-share-wifi-bluetooth)
 - [android中如何取得用户手机的常用联系人(即收藏夹的联系人)](http://blog.csdn.net/qiaoning13256/article/details/6889315)
 - [Android开发拆墙(GFW)技巧之谈](http://waylenw.github.io/Android/android-vpn-useage/)
+
+- [Android 手势锁的实现 让自己的应用更加安全吧](http://blog.csdn.net/lmj623565791/article/details/36236113)
+- [Android项目实战--手机卫士24--程序锁的实现以及逻辑](http://www.tuicool.com/articles/naiARn)
+- [Android之世面上程序锁的实现](http://blog.csdn.net/furongkang/article/details/6926611)
+
+### 安卓界面优化
+- [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
+### 安卓开发中相见很晚的类接口和方法
+- [安卓开发中相见很晚的类接口和方法](https://www.zhihu.com/question/33636939)
+### RX
+- [RX](https://mcxiaoke.gitbooks.io/rxdocs/content/Intro.html)
 
 ## 后端服务
 - [年度最佳后端服务排名](https://next.36kr.com/posts/collections/507)
