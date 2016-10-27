@@ -119,10 +119,12 @@
 ## 设计一款APP
 - [google官方资源](https://developer.android.com/design/index.html)
 
-## 工具网站
+## 工具
 - [AndroidDevTools](http://www.androiddevtools.cn/)
 - [ProcessOn在线流程图软件](https://www.processon.com/)
 - [google play apk download](https://apkpure.com/)
+- [飞讯群发器](http://www.fxrjz.com/qqqunfa/qunfa.html)
+- [faststone capture]
 
 ## 简历
 - [技术简历模板](http://b.codekk.com/detail/Trinea/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E6%8A%80%E6%9C%AF%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
