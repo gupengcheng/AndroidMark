@@ -5,9 +5,9 @@
 - [泡在网上的日子](http://www.jcodecraeer.com/)
 - [简书](http://www.jianshu.com/)
 - [稀土掘金](http://gold.xitu.io/#/)
-- [深度开源](http://www.open-open.com/)
 - [胡凯主页](http://hukai.me/)
 - [Trinea](http://www.trinea.cn/)
+- [推酷](http://www.tuicool.com/)
 - [codeKK和Trinea是同一个人](http://p.codekk.com/)
 - [github最新开源软件](https://android-arsenal.com/)
 - [google官方培训](https://developer.android.com/training/index.html)
@@ -16,6 +16,8 @@
 
 ## Android 源码
 - [Android source code online](http://androidxref.com/)
+- [Android源码服务专家](http://www.javaapk.com/)
+- [深度开源](http://www.open-open.com/)
 
 ## 行业动态网址
 - [36氪](http://36kr.com/)
@@ -120,12 +122,18 @@
 ## 工具网站
 - [AndroidDevTools](http://www.androiddevtools.cn/)
 - [ProcessOn在线流程图软件](https://www.processon.com/)
+- [google play apk download](https://apkpure.com/)
 
 ## 简历
 - [技术简历模板](http://b.codekk.com/detail/Trinea/%E6%8E%A8%E8%8D%90%E4%B8%A4%E4%B8%AA%E6%8A%80%E6%9C%AF%E7%AE%80%E5%8E%86%E6%A8%A1%E6%9D%BF)
 
 ## 第三方库的资料
 - [Glide图片加载库](https://muzhi1991.gitbooks.io/android-glide-wiki/content/chapter0.html)
+- [Fresco](http://www.fresco-cn.org/)
+- [文字转提取首字母的库Android7.0已经支持库](http://apps.icu-project.org/datacustom/)
 
 ## 发布书籍
 - [GitBook, Git + Markdown 快速发布你的书籍](http://leeluolee.github.io/2014/07/22/2014-07-22-gitbook-guide/)
+
+## 翻墙
+- [云梯](https://www.yuntiweb.com/)
