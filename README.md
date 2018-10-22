@@ -83,6 +83,8 @@
 - [Android项目实战--手机卫士24--程序锁的实现以及逻辑](http://www.tuicool.com/articles/naiARn)
 - [Android之世面上程序锁的实现](http://blog.csdn.net/furongkang/article/details/6926611)
 
+### 安卓屏幕适配
+- [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
 ### 安卓界面优化
 - [Android界面性能调优手册](https://androidtest.org/android-graphics-performance-pattens/)
 ### 安卓开发中相见很晚的类接口和方法
